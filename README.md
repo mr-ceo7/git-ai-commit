@@ -1,6 +1,6 @@
 # git-ai-commit 🚀
 
-![git-ai-commit banner](docs/banner.svg)
+![git-ai-commit banner](docs/banner.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: >=3.8](https://img.shields.io/badge/Python->=3.8-brightgreen.svg)](https://www.python.org/)
