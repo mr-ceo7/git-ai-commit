@@ -13,8 +13,11 @@ import argparse
 import subprocess
 import tempfile
 import urllib.request
+import warnings
 from pathlib import Path
 from typing import List, Optional, Tuple
+
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 import google.generativeai as genai
 from dotenv import dotenv_values, load_dotenv
